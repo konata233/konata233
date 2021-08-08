@@ -5,4 +5,9 @@
 - 📫 How to reach me: hsiaowei_lu@foxmail.com
 - ⚡ Fun fact: 窝嫩叠/doge
 
-<button>窝嫩叠</button>
+<button onclick="clk()">窝嫩叠</button>
+<script>
+  function clk(){
+  window.alert("114514")
+  }
+  </script>
