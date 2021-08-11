@@ -5,7 +5,7 @@
 - 📫 How to reach me: hsiaowei_lu@foxmail.com
 - ⚡ Fun fact: 窝嫩叠/doge
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Creeper2333&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creeper2333&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/52315359/128585311-62d13a2f-efc2-4ed6-99ce-0264274a28f4.png" width="200" height="200">
