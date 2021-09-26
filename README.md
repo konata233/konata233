@@ -16,3 +16,6 @@
     <a href="https://github.com/Creeper2333/Bilibili-Danmaku-Auto-Report">这是蒙古上单</a>
     </p>
 </p>
+
+todo:
+ - 橄榄防沉迷
