@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning python
 - 💬 Ask me about how to produce as much useless apps as you can
-- 📫 How to reach me: hsiaowei_lu@foxmail.com
+- 📫 How to reach me: creeperblin@proton.me
 
 [![Creeper2333's GitHub stats](https://github-readme-stats.vercel.app/api?username=creeper2333)](https://github.com/anuraghazra/github-readme-stats)
 
