@@ -4,7 +4,7 @@
 
 [![konata233's GitHub stats](https://github-readme-stats.vercel.app/api?username=konata233)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konata233&layout=compact&exclude_repo=konata233.github.io,raytracing-in-one-week-translation)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konata233&layout=compact&size_weight=0.3&count_weight=0.7&exclude_repo=konata233.github.io,raytracing-in-one-week-translation)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Preferred languages
 ![Python](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=white)
